@@ -1,5 +1,6 @@
 # lecture_45_JS_Interface_Events_Mouse_event_basics  
 
+
 #  [Задачи ](https://github.com/schoolteacherMP/lecture_45_JS_Interface_Events_Mouse_event_basics/blob/main/tasks.md)  
 
 События мыши имеют следующие свойства:
