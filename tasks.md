@@ -36,7 +36,8 @@
 
 ### 6. Координаты мыши online   
 Создайте инпут и выводите туда координаты указателя мыши.  
-![image](https://github.com/schoolteacherMP/lecture_45_JS_Interface_Events_Mouse_event_basics/assets/113675674/5f07bb66-cc70-43fc-a519-a0ec0e7558f9)  
+![image](https://github.com/schoolteacherMP/lecture_45_JS_Interface_Events_Mouse_event_basics/assets/113675674/688f66bb-6b3d-498c-9a69-3d2badae9749)  
+
 Чтобы вывести координаты мыши относительно документа в инпут, вам потребуется использовать событие mousemove (на документе) и получить значения координат event.clientX и event.clientY. Затем вы можете обновлять значение инпута соответствующими значениями координат (с помощью бэктиков выводить значения).  
 
  
