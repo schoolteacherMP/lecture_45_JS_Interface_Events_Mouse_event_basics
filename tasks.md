@@ -1,20 +1,20 @@
 ## Задача 1.   
 ### а что буте, если нажать мышкой?
-1. Нужно запретить копирование и показывать алерт при попытке копирования текста в элементе <p id="loremCopy">.
+1. Нужно запретить копирование и показывать алерт при попытке копирования текста в элементе `<p id="loremCopy">`.
 ![image](https://github.com/schoolteacherMP/lecture_45_JS_Interface_Events_Mouse_event_basics/assets/113675674/6a77a99b-d662-4142-8cfa-0c74f14a7111)  
  ![image](https://github.com/schoolteacherMP/lecture_45_JS_Interface_Events_Mouse_event_basics/assets/113675674/bb944134-1720-4600-b5c2-4a051c421e78)  
 
-2. При двойном клике на параграфе <p id="loremDblClick"> изменить цвет фона на красный. При повторном двойном клике убрать красный цвет (можно использовать подход добавления/удаления класса на элементе (toggle)).
+2. При двойном клике на параграфе `<p id="loremDblClick">` изменить цвет фона на красный. При повторном двойном клике убрать красный цвет (можно использовать подход добавления/удаления класса на элементе (toggle)).
 ![image](https://github.com/schoolteacherMP/lecture_45_JS_Interface_Events_Mouse_event_basics/assets/113675674/37fa2237-e87d-4264-b00c-2979451584c3)  
 
-3. При нажатии правой кнопкой мыши на <p id="loremContextMenu"> отменить действие по умолчанию и показать элемент <p id="loremContextMenuShow">, который изначально скрыт. Внутри этого элемента содержится текст "Here's Johnny.", изображение и кнопка "спрятать" (<button id="btnHide">).
+3. При нажатии правой кнопкой мыши на `<p id="loremContextMenu">` отменить действие по умолчанию и показать элемент `<p id="loremContextMenuShow">`, который изначально скрыт. Внутри этого элемента содержится текст "Here's Johnny.", изображение и кнопка "спрятать" (`<button id="btnHide">`).
 ![image](https://github.com/schoolteacherMP/lecture_45_JS_Interface_Events_Mouse_event_basics/assets/113675674/ec4a0d06-086e-48c8-9595-a9eaeb1565a0)  
 ![image](https://github.com/schoolteacherMP/lecture_45_JS_Interface_Events_Mouse_event_basics/assets/113675674/d8c9d26e-9e58-49b7-a9ca-6e5219078d35)  
   
-3.1 При клике на кнопку <button id="btnHide"> элемент <p id="loremContextMenuShow"> должен исчезать со страницы.
+3.1 При клике на кнопку `<button id="btnHide">` элемент `<p id="loremContextMenuShow">` должен исчезать со страницы.
 
-4. При наведении курсора на <div id="div1"> цвет должен меняться, а при покидании курсора, цвет должен возвращаться к первоначальному.
-4.1 При нажатии и удержании левой кнопки мыши (и только левой кнопки) на <div id="div1"> элемент должен увеличиваться в размерах. При отпускании кнопки размер должен возвращаться в исходное состояние.
+4. При наведении курсора на `<div id="div1">` цвет должен меняться, а при покидании курсора, цвет должен возвращаться к первоначальному.
+4.1 При нажатии и удержании левой кнопки мыши (и только левой кнопки) на `<div id="div1">` элемент должен увеличиваться в размерах. При отпускании кнопки размер должен возвращаться в исходное состояние.
  ![image](https://github.com/schoolteacherMP/lecture_45_JS_Interface_Events_Mouse_event_basics/assets/113675674/bf28b12e-709d-4b27-af02-a5605dc6c9ba)  
 
  
