@@ -5,6 +5,10 @@
 ![image](https://github.com/schoolteacherMP/lecture_45_JS_Interface_Events_Mouse_event_basics/assets/113675674/966d830a-89d8-40a9-9780-e4b26dc8326b)  
 ![image](https://github.com/schoolteacherMP/lecture_45_JS_Interface_Events_Mouse_event_basics/assets/113675674/38357eea-b9a3-416b-8aef-d41b9676e9d9)  
 ![image](https://github.com/schoolteacherMP/lecture_45_JS_Interface_Events_Mouse_event_basics/assets/113675674/839b6f3f-8606-4dd4-91e7-d6eaa6daa132)  
+### 6. Координаты мыши online   
+![image](https://github.com/schoolteacherMP/lecture_45_JS_Interface_Events_Mouse_event_basics/assets/113675674/2b5ea19d-ffc7-4fce-905c-bf28a5081d48)  
+
+
 
 
 ## Задача 2.   
